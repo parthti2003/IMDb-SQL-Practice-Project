@@ -40,7 +40,6 @@ The dataset is based on IMDb's publicly available data, with the following table
 
 📊 Topics Covered
    SELECT & WHERE filters 
-   
    Aggregate functions
    GROUP BY & HAVING
    Joins (INNER, LEFT, RIGHT)
