@@ -35,8 +35,8 @@ The dataset is based on IMDb's publicly available data, with the following table
    ```bash
    git clone https://github.com/<your-username>/imdb-sql-practice.git
    cd imdb-sql-practice
-2. load data 
-    select all and run from setup queries.sql
+2. Load Data 
+    Select all and run from setup queries.sql
 
 
 📊 Topics Covered
