@@ -26,7 +26,6 @@ The dataset is based on IMDb's publicly available data, with the following table
 
 ## 🛠 Requirements
 - MySQL 8.0+
-- IMDb dataset (download from: [IMDb Datasets](https://www.imdb.com/interfaces/))
 
 ---
 
