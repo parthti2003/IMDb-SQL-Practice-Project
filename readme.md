@@ -39,25 +39,17 @@ The dataset is based on IMDb's publicly available data, with the following table
 
 
 📊 Topics Covered
-SELECT & WHERE filters
-
-Aggregate functions
-
-GROUP BY & HAVING
-
-Joins (INNER, LEFT, RIGHT)
-
-Subqueries
-
-Common Table Expressions (CTEs)
-
-Window Functions
-
-Ranking & Percentiles
-
-Data cleaning in SQL
-
-Complex interview-style analytics problems
+   SELECT & WHERE filters 
+   
+   Aggregate functions
+   GROUP BY & HAVING
+   Joins (INNER, LEFT, RIGHT)
+   Subqueries
+   Common Table Expressions (CTEs)
+   Window Functions
+   Ranking & Percentiles
+   Data cleaning in SQL
+   Complex interview-style analytics problems
 
 Disclaimer
 This project is for educational purposes only. IMDb data is subject to IMDb Terms of Use.
